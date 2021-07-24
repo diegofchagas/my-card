@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap");
+
+body{background-image: url(./imagens/p2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imagem{ /*background-image: url(./imagens/backgorund.png);*/
+color: blanchedalmond;
+background-repeat: no-repeat;
+padding: 1px 20px;
+margin: auto;
+width: 370px;
+height: 200px;
+background-size: cover;
+margin-top: 75px;
+border-radius: 2px;
+margin-left: 540px;}
+
+
+h1{
+    font-family: 'Architects Daughter',cursive;
+}
+
+
+li{list-style-type: none;
+    font-family: 'Architects Daughter',cursive;
+font-weight: bolder;}
+
+.instagram{ list-style-image: url(./imagens/Insta.png);}
+.youtube{list-style-image: url(./imagens/Youtube.png);}
+.twiter{ list-style-image: url(./imagens/Twitter.png);}
+.github{ list-style-image: url(./imagens/github.png);}
+
+
+
+p{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 30px;
+font-weight: bold;
+}
